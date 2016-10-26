@@ -7,4 +7,4 @@ Mestrado Integrado em Eng. Informática - 3º ano - Universidade do Minho
 
 * Carlos Pereira (@carlospereira1607)
 * João Pires Barreira (@jpiresbarreira)
-* Miguel Silva
+* Miguel Silva (@migasgil)
