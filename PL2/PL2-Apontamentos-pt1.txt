@@ -1,0 +1,49 @@
+Número de ordem da sequência de bytes capturada - 211
+
+-- PRIMEIRA AULA
+
+4. 
+4.1 São usados 54 bytes antes do caratere “G” (47 em hexa).
+4.2 Overhead:
+	428 - 6 - 6 - 2 - 4 = 410 bytes (dados ou payload)
+
+	overhead = 18/428 = 4,2%
+
+5. TEMOS DE FAZER NOVA CAPTURA
+
+6. 00:0c:29:d2:19:f0. Sistema de rede? Corresponde ao Vmware_d2:19:f0 (servidor do Cesium?).
+
+7. 00:e0:4c:60:3d:d0. Sistema de rede? Corresponde ao RealtekS_60:3d:d0 (fabricante da placa de redE).
+
+NOTA: Source da resposta é a destination do get (e vice-versa).
+
+8. 0x0800 (IPv4)
+
+9. Foi um text/html (código da página inicial do site do Cesium).
+
+-- SEGUNDA AULA
+
+10.
+
+11. 
+Origem: 00 e0 4c 60 3d d0
+Destino: 00 00 00 00 00 (ff:ff:ff:ff:ff?)
+
+Como o nosso computador não conhece o endereço MAC do site miei.di.uminho.pt que tem de utilizar para comunicar com o mesmo (e não o encontra na sua tabela ARP), mas como, através do DNS sabe o seu endereço IP (continuar...)
+
+12. ARP (0x0806)
+
+13. request (1)
+
+14. Sim, contém (192.168.100.200).
+
+15. 
+a. reply (2)
+b. ???
+
+16. 
+Origem: 50 b7 c3 77 a9 fe (router?)
+Destino: 00 e0 4c 60 3d d0
+
+
+
