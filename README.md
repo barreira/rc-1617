@@ -1,4 +1,4 @@
-#RC
+# RC
 ### Nota final do trabalho: 16.9 em 20.
 
 Trabalhos práticos da U.C. de Redes de Computadores (2016/2017)
